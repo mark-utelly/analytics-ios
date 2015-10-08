@@ -3,7 +3,7 @@
 
 #import "SEGKahunaDefines.h"
 #import "SEGKahunaIntegration.h"
-#import "Kahuna.h"
+#import <Kahuna/Kahuna.h>
 #import "SEGAnalyticsUtils.h"
 #import "SEGAnalytics.h"
 #import <objc/runtime.h>
